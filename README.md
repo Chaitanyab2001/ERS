@@ -7,7 +7,49 @@ This entire system ensures that the results are uploaded and displayed in a secu
 
  
 ## Screenshots
-----Screenshots----
+
+<p align="center"><b>Home Page</b></p>
+
+![Screenshot (82)](https://user-images.githubusercontent.com/56026267/154731207-fd91537e-f162-4102-a74b-7f6b8c6cc59f.png)
+
+<hr>
+
+<p align="center"><b>Student Register Page</b></p>
+
+![Screenshot (84)](https://user-images.githubusercontent.com/56026267/154731576-3723007f-9d1b-47a3-b1a0-c2c0a908b29e.png)
+
+<hr>
+
+<p align="center"><b>Admin Upload Result Page</b></p>
+
+![Screenshot (87)](https://user-images.githubusercontent.com/56026267/154732126-ffe1bd2e-2027-4984-abff-bbba7ddb1f9b.png)
+
+<hr>
+
+<p align="center"><b>Registration Successful Page</b></p>
+
+![Screenshot (88)](https://user-images.githubusercontent.com/56026267/154732383-5d22a549-1067-4de8-80e7-83722abc4aa9.png)
+
+<hr>
+
+<p align="center"><b>Results Uploaded Successfully Page</b></p>
+
+![Screenshot (90)](https://user-images.githubusercontent.com/56026267/154732679-a20cba83-3348-4b4e-acb9-f6401534dc1a.png)
+
+<hr>
+
+<p align="center"><b>Enter Details to View Results Page</b></p>
+
+![Screenshot (91)](https://user-images.githubusercontent.com/56026267/154732867-68d927b2-66a0-49ea-9dac-c63f99dcea2d.png)
+
+<hr>
+
+<p align="center"><b>Results Page</b></p>
+
+![Screenshot (92)](https://user-images.githubusercontent.com/56026267/154733113-5522e365-b097-40b8-a292-bdab3fff0b29.png)
+
+<hr>
+
 
 ## Hosted URL
 https://ers-by-chaitanya.herokuapp.com/
