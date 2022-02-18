@@ -56,12 +56,10 @@ https://ers-by-chaitanya.herokuapp.com/
 
 ## Features Implemented
 
-
-
-## Frontend
-----Frontend Features----
-## Backend
-----Backend Features----
+<ol>
+	<li>Used the concept of Asymmetric Key Encryption for encrypting and decrypting results for ensuring confidentailty and security of results.</li>
+	<li>Used multer middleware to parse various types of input files such as .xls, .xlsx and .txt</li>
+</ol>	
 
 ## Technologies/Libraries/Packages Used
 <b>Technologies</b>
