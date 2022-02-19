@@ -4,7 +4,7 @@ ERS is a web application that is built with the aim to help the process of uploa
 
 This entire system ensures that the results are uploaded and displayed in a secure manner while also ensuring confidentiality of results. i.e, a student can only view his/her result only and not somebody else's unlike the traditional system wherein all the students' marks are displayed publicly on the notice board which leads to students comparing themselves with others and judging themselves on the basis of that. This creates unnecessary pressure on the students thereby leading to undesirable consequences. Just like in the movie '3 idiots' wherein 2 characters namely Farhan and Raju are unhappy with the fact that their names are present on the bottom of the result list, but they eventually become even more depressed after realizing that their friend Rancho's name is present on top of the list. Then further in the movie we can see Rancho saying to the director of their institute that this entire system of displaying students' results on notice board is not really a good idea. So taking this into consideration, I have developed this web application that provides a solution to the above mentioned problem. 
 
-
+ 
  
 ## Screenshots
 
@@ -52,7 +52,14 @@ This entire system ensures that the results are uploaded and displayed in a secu
 
 
 ## Hosted URL
+
 https://ers-by-chaitanya.herokuapp.com/
+
+
+## Project Video Demo
+
+https://youtu.be/HYSd2FvwzUs
+
 
 ## Features Implemented
 
@@ -61,17 +68,18 @@ https://ers-by-chaitanya.herokuapp.com/
 	<li>Used multer middleware to parse various types of input files such as .xls, .xlsx and .txt</li>
 </ol>	
 
+
 ## Technologies/Libraries/Packages Used
 <b>Technologies</b>
 <ul>
 		<li>HTML</li>
 		<li>CSS</li>
 		<li>JavaScript</li>
-    <li>Bootstrap</li>
-    <li>NodeJS</li>
+    		<li>Bootstrap</li>
+    		<li>NodeJS</li>
 		<li>ExpressJS</li>
-    <li>MongoDB</li>
-    <li>EJS</li>
+    		<li>MongoDB</li>
+    		<li>EJS</li>
 </ul>
 
 <b>Libraries/Packages</b>
@@ -90,6 +98,7 @@ https://ers-by-chaitanya.herokuapp.com/
     <li>mongoose</li>
 </ul>
 
+
 ## Local Setup
 1. Clone this repo using <code> git clone https://github.com/Chaitanyab2001/ERS.git </code>
 2. After cloning create a <code>.env</code> file to store all the environment variables
@@ -102,6 +111,7 @@ DB_URL = RETRACTED (Put your mongodb atlas url here)
 ```
 4. After setting the <code>.env</code> file, run the command <code>npm i</code> so that npm automatically installs all the node packages and their dependencies which are required for the project
 5. To start the server run the command <code>npm start</code>
+
 
 ## Team Member
 Chaitanya Bulusu (2019IMT-029)
